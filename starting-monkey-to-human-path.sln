@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starting-monkey-to-human-path", "starting-monkey-to-human-path.csproj", "{2FE864B2-1BB4-42A3-8691-D05F7D5A02A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "202", "202", "{E217FF97-02C7-492A-AE00-FC4D13C5301E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Larin", "Larin", "{698D265C-1FA2-4DF5-A195-F059C11BC82B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wdad", "wdad", "{6873520C-3951-44A6-BCF8-77C941470B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE864B2-1BB4-42A3-8691-D05F7D5A02A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE864B2-1BB4-42A3-8691-D05F7D5A02A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE864B2-1BB4-42A3-8691-D05F7D5A02A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE864B2-1BB4-42A3-8691-D05F7D5A02A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{698D265C-1FA2-4DF5-A195-F059C11BC82B} = {E217FF97-02C7-492A-AE00-FC4D13C5301E}
+		{6873520C-3951-44A6-BCF8-77C941470B56} = {698D265C-1FA2-4DF5-A195-F059C11BC82B}
+	EndGlobalSection
+EndGlobal
