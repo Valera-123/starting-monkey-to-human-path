@@ -10,6 +10,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Larin", "Larin", "{698D265C-1FA2-4DF5-A195-F059C11BC82B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wdad", "wdad", "{6873520C-3951-44A6-BCF8-77C941470B56}"
+	ProjectSection(SolutionItems) = preProject
+		Application.cs = Application.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
